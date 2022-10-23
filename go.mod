@@ -34,9 +34,9 @@ require (
 	github.com/klauspost/cpuid/v2 v2.1.0 // indirect
 	github.com/logrusorgru/aurora v2.0.3+incompatible // indirect
 	github.com/onflow/atree v0.4.0 // indirect
-	github.com/onflow/flow-go v0.28.1-0.20221021192700-74146556857a // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/rivo/uniseg v0.2.1-0.20211004051800-57c86be7915a // indirect
+	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/stretchr/objx v0.4.0 // indirect
 	github.com/turbolent/prettier v0.0.0-20220320183459-661cc755135d // indirect
 	github.com/x448/float16 v0.8.4 // indirect
@@ -48,6 +48,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20220411215720-9780585627b5 // indirect
 	golang.org/x/sys v0.0.0-20220811171246-fbc7d0a398ab // indirect
 	golang.org/x/text v0.3.7 // indirect
+	golang.org/x/tools v0.1.12 // indirect
 	golang.org/x/xerrors v0.0.0-20220609144429-65e65417b02f // indirect
 	google.golang.org/appengine v1.6.7 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
